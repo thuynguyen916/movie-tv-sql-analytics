@@ -40,6 +40,21 @@ Topics covered include:
 
 ---
 
+## 📄 Query Output Report
+
+You can view the results for all 10 queries in this project:
+
+📎 [Download Full Query Output Report (Word)](./Movie TV SQL output.docx)
+
+This document includes:
+- Each query’s purpose explained in plain language
+- Corresponding output screenshots (or placeholders)
+- Organized and labeled by question number
+
+Great for anyone reviewing the project without running the SQL themselves!
+
+--- 
+
 ## ✨ Project Highlights
 - Foreign key handling with proper ordering of constraint drops
 - Actor → Role → Show → Genre relationships modeled and queried
