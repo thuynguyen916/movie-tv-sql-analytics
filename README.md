@@ -42,14 +42,14 @@ Topics covered include:
 
 ## 📄 Query Output Report
 
-You can view the results for all 10 queries in this project:
+You can view the results and explanations for all 10 queries in this project:
 
-📎 [Download Full Query Output Report (Word)](./Movie TV SQL output.docx)
+📎 [Download Full Query Output Report (Word)](./Movie%20TV%20SQL%20output.docx)
 
 This document includes:
-- Each query’s purpose explained in plain language
-- Corresponding output screenshots (or placeholders)
-- Organized and labeled by question number
+- Each query rewritten as a clear, natural-language question
+- Clean formatting for academic or portfolio use
+- Ready for sharing with recruiters, classmates, or professors
 
 Great for anyone reviewing the project without running the SQL themselves!
 
